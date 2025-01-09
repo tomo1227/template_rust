@@ -29,12 +29,12 @@
                 "tamasfe.even-better-toml",
                 "swellaby.vscode-rust-test-adapter",
                 "jscearcy.rust-doc-viewer",
-                "ms-vscode.live-server",
                 "vadimcn.vscode-lldb",
                 // Git関連
                 "mhutchie.git-graph",
                 "eamodio.gitlens",
                 // その他
+                "ms-vscode.live-server",
                 "streetsidesoftware.code-spell-checker",
                 "naumovs.color-highlight",
                 "formulahendry.auto-rename-tag",
